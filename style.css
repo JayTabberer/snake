@@ -1,3 +1,16 @@
+body, html {
+    height: 100%;
+    margin: 0;
+}
+
+body{
+    height: 100%;
+    background-image: url(https://motionarray.imgix.net/preview-143179-ClMb14CISB-high_0000.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+
+}
 
 #gameCanvas {
     position: absolute;
@@ -11,6 +24,7 @@
     text-align: center;
     font-size: 140px;
     font-family: Arial, Helvetica, sans-serif;
+    color: #ffffff;
     }
     
   
